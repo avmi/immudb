@@ -39,7 +39,7 @@ require (
 	github.com/rogpeppe/go-internal v1.8.0
 	github.com/rs/xid v1.3.0
 	github.com/schollz/progressbar/v2 v2.15.0
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.6.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.12.0
 	github.com/stretchr/testify v1.7.1
@@ -53,7 +53,6 @@ require (
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/ini.v1 v1.66.6 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
 replace github.com/takama/daemon v0.12.0 => github.com/codenotary/daemon v0.0.0-20200507161650-3d4bcb5230f4
