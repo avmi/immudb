@@ -18,7 +18,7 @@ require (
 	github.com/imdario/mergo v0.3.13 // indirect
 	github.com/jackc/pgx/v4 v4.16.1
 	github.com/jaswdr/faker v1.4.3
-	github.com/lib/pq v1.10.2
+	github.com/lib/pq v1.10.7
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/mattn/goveralls v0.0.11
 	github.com/mitchellh/copystructure v1.2.0 // indirect
