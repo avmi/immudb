@@ -39,7 +39,7 @@ require (
 	github.com/rogpeppe/go-internal v1.8.0
 	github.com/rs/xid v1.3.0
 	github.com/schollz/progressbar/v2 v2.15.0
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.12.0
 	github.com/stretchr/testify v1.8.0
