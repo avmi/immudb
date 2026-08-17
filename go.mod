@@ -28,7 +28,7 @@ require (
 	github.com/prometheus/procfs v0.7.3
 	github.com/pseudomuto/protoc-gen-doc v1.4.1
 	github.com/rogpeppe/go-internal v1.15.0
-	github.com/rs/xid v1.5.0
+	github.com/rs/xid v1.6.0
 	github.com/schollz/progressbar/v2 v2.15.0
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.10
